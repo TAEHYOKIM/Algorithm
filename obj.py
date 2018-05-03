@@ -25,3 +25,4 @@ obj.isnull()
 
 print('kim')
 print('dd')
+
